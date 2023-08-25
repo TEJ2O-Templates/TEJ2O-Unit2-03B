@@ -2,7 +2,7 @@
  *
  * Created by: Mr. Coxall
  * Created on: Sep 2020
- * This program does basic math
+ * This program calculates area and perimeter of a 3 x 5 cm rectangle
 */
 
 basic.clearScreen()
